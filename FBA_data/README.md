@@ -8,6 +8,6 @@ Di seguito le righe di codice **MatLab** da utilizzare
 
 ```MatLab
 initCobraToolbox()
-load('/usr/local/MATLAB/R2017B/toolbox/cobratoolbox/test/models/mat/iJ01366.mat')
+load('/usr/local/MATLAB/R2017b/toolbox/cobratoolbox/test/models/mat/iJ01366.mat')
 
 ```
