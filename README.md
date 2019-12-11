@@ -14,7 +14,7 @@ Il Corso, organizzato nell'ambito delle attività dei visiting professor dell' *
 #### [Genome-scale metabolic modelling (tutorial)](./FBA_data/)
 - [X] 09 Dicembre 2019 - ore 14:00-18:00 - Aula C del Dip. di Matematica
 #### Multi-omic-data integration and optimisation of metabolic models
-- [ ] 10 Dicembre 2019 - ore 15:00-18:00 - Aula C del Dip. di Matematica
+- [X] 10 Dicembre 2019 - ore 15:00-18:00 - Aula C del Dip. di Matematica
 #### Bring your own "data/problem" hands-on modelling session (in MATLAB)
 - [ ] 11 Dicembre 2019 - ore 15:00-17:00 - Aula C del Dip. di Matematica
 
